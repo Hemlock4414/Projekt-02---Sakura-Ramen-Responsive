@@ -391,3 +391,9 @@ footer {
         font-size: 42px;
     }  
 }
+
+@media(max-width: 350px) {
+    h2 {
+        font-size: 36px;
+    }
+}
